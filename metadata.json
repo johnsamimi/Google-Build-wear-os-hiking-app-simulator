@@ -1,0 +1,7 @@
+{
+  "name": "Wear OS Hiking App Simulator",
+  "description": "A web-based prototype of a Wear OS hiking application featuring real-time GPS tracking, offline maps, and live stats.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
