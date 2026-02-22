@@ -1,6 +1,0 @@
-{
-  "appId": "com.wearos.hikingapp",
-  "appName": "Wear OS Hiking App",
-  "webDir": "dist",
-  "bundledWebRuntime": false
-}
